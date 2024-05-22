@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SonaLakhotia
-- 👀 I’m interested in coding, learning new skills, qaultiy assurance and product management.
+- 👀 I’m interested in coding, learning new skills, quality assurance and product management.
 - 🌱 I’m currently learning and upskilling in ML, revisiting DSA
 
 <!---
