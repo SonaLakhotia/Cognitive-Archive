@@ -1,0 +1,35 @@
+version: "3.9"
+
+services:
+  minioserver:
+    image: minio/minio
+    ports:
+      - 9000:9000
+      - 9001:9001
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minioadmin
+    container_name: minio
+    command: server /data --console-address ":9001"
+
+  spark_notebook:
+    image: alexmerced/spark33-notebook
+    container_name: notebook
+    volumes:
+      - ./warehouse:/home/docker/warehouse
+      - ./notebooks:/home/docker/notebooks
+      - ./datasets:/home/docker/datasets
+    env_file: .env
+    ports:
+      - 8888:8888
+  
+  nessie:
+    image: projectnessie/nessie
+    container_name: nessie
+    ports:
+      - "19120:19120"
+
+networks:
+  default:
+    name: iceberg_env
+    driver: bridge 
