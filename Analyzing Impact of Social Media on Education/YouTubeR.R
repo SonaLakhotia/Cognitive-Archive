@@ -2,7 +2,7 @@ library(vosonSML)
 library(magrittr)
 library(dplyr)
 library(igraph)
-myAPIKey <- "AIzaSyADPaIYtDktuzaBSB2bRdOO70xZCWtOmZA"
+myAPIKey <- "YOUR KEY HERE"
 
 youtubeAuth <- Authenticate("youtube", apiKey= myAPIKey)
 
