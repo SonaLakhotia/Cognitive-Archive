@@ -1,0 +1,64 @@
+2023-06-21 00:48:50,586 INFO com.softwaretesting.testing.dao.CustomerRepositoryTest [main] Starting CustomerRepositoryTest on LAPTOP-UN1OO9E6 with PID 10848 (started by jssso in C:\Users\jssso\IdeaProjects\software-testing-ss2023)
+2023-06-21 00:48:50,624 INFO com.softwaretesting.testing.dao.CustomerRepositoryTest [main] No active profile set, falling back to default profiles: default
+2023-06-21 00:48:52,476 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2023-06-21 00:48:52,601 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2023-06-21 00:48:52,601 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2023-06-21 00:48:52,696 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2023-06-21 00:48:52,907 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-06-21 00:48:53,573 INFO org.hibernate.tool.schema.internal.SchemaCreatorImpl [main] HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@1a23e131'
+2023-06-21 00:48:54,097 INFO com.softwaretesting.testing.dao.CustomerRepositoryTest [main] Started CustomerRepositoryTest in 3.972 seconds (JVM running for 7.317)
+2023-06-21 00:48:54,167 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [main] HHH000397: Using ASTQueryTranslatorFactory
+2023-06-21 00:48:54,415 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-2] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2023-06-21 01:00:08,994 INFO com.softwaretesting.testing.dao.CustomerRepositoryTest [main] Starting CustomerRepositoryTest on LAPTOP-UN1OO9E6 with PID 12012 (started by jssso in C:\Users\jssso\IdeaProjects\software-testing-ss2023)
+2023-06-21 01:00:08,994 INFO com.softwaretesting.testing.dao.CustomerRepositoryTest [main] No active profile set, falling back to default profiles: default
+2023-06-21 01:00:10,815 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2023-06-21 01:00:10,926 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2023-06-21 01:00:10,940 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2023-06-21 01:00:10,994 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2023-06-21 01:00:11,199 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-06-21 01:00:11,885 INFO org.hibernate.tool.schema.internal.SchemaCreatorImpl [main] HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@77d01d83'
+2023-06-21 01:00:12,390 INFO com.softwaretesting.testing.dao.CustomerRepositoryTest [main] Started CustomerRepositoryTest in 3.837 seconds (JVM running for 6.797)
+2023-06-21 01:00:12,479 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [main] HHH000397: Using ASTQueryTranslatorFactory
+2023-06-21 01:00:12,758 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-2] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2023-06-21 01:17:43,415 INFO com.softwaretesting.testing.dao.CustomerRepositoryTest [main] Starting CustomerRepositoryTest on LAPTOP-UN1OO9E6 with PID 10096 (started by jssso in C:\Users\jssso\IdeaProjects\software-testing-ss2023)
+2023-06-21 01:17:43,418 INFO com.softwaretesting.testing.dao.CustomerRepositoryTest [main] No active profile set, falling back to default profiles: default
+2023-06-21 01:17:45,185 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2023-06-21 01:17:45,347 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2023-06-21 01:17:45,349 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2023-06-21 01:17:45,411 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2023-06-21 01:17:45,606 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-06-21 01:17:46,259 INFO org.hibernate.tool.schema.internal.SchemaCreatorImpl [main] HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@964a7b0'
+2023-06-21 01:17:46,766 INFO com.softwaretesting.testing.dao.CustomerRepositoryTest [main] Started CustomerRepositoryTest in 3.818 seconds (JVM running for 7.307)
+2023-06-21 01:17:46,856 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [main] HHH000397: Using ASTQueryTranslatorFactory
+2023-06-21 01:17:47,102 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-2] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2023-06-21 01:36:19,535 INFO com.softwaretesting.testing.dao.CustomerRepositoryTest [main] Starting CustomerRepositoryTest on LAPTOP-UN1OO9E6 with PID 20832 (started by jssso in C:\Users\jssso\IdeaProjects\software-testing-ss2023)
+2023-06-21 01:36:19,538 INFO com.softwaretesting.testing.dao.CustomerRepositoryTest [main] No active profile set, falling back to default profiles: default
+2023-06-21 01:36:20,972 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2023-06-21 01:36:21,105 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2023-06-21 01:36:21,129 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2023-06-21 01:36:21,184 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2023-06-21 01:36:21,439 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-06-21 01:36:22,061 INFO org.hibernate.tool.schema.internal.SchemaCreatorImpl [main] HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@3d98729a'
+2023-06-21 01:36:22,602 INFO com.softwaretesting.testing.dao.CustomerRepositoryTest [main] Started CustomerRepositoryTest in 3.461 seconds (JVM running for 5.644)
+2023-06-21 01:36:22,681 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [main] HHH000397: Using ASTQueryTranslatorFactory
+2023-06-21 01:36:22,943 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-1] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2023-06-21 01:36:26,750 INFO com.softwaretesting.testing.dao.CustomerRepositoryTest [main] Starting CustomerRepositoryTest on LAPTOP-UN1OO9E6 with PID 21272 (started by jssso in C:\Users\jssso\IdeaProjects\software-testing-ss2023)
+2023-06-21 01:36:26,752 INFO com.softwaretesting.testing.dao.CustomerRepositoryTest [main] No active profile set, falling back to default profiles: default
+2023-06-21 01:36:27,879 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2023-06-21 01:36:27,960 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2023-06-21 01:36:27,962 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2023-06-21 01:36:28,008 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2023-06-21 01:36:28,209 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-06-21 01:36:28,646 INFO org.hibernate.tool.schema.internal.SchemaCreatorImpl [main] HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@3de45b6c'
+2023-06-21 01:36:29,066 INFO com.softwaretesting.testing.dao.CustomerRepositoryTest [main] Started CustomerRepositoryTest in 2.6 seconds (JVM running for 4.128)
+2023-06-21 01:36:29,137 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [main] HHH000397: Using ASTQueryTranslatorFactory

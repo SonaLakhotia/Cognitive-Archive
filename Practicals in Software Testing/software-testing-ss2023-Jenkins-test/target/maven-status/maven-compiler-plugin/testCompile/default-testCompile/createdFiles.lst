@@ -1,0 +1,7 @@
+com\softwaretesting\testing\validator\CustomerValidatorTest.class
+com\softwaretesting\testing\util\DebugFactorialTest.class
+com\softwaretesting\testing\validator\PhoneNumberValidatorTest.class
+com\softwaretesting\testing\util\MiscTest.class
+com\softwaretesting\testing\customerRegistration\service\CustomerRegistrationServiceTest.class
+com\softwaretesting\testing\dao\CustomerRepositoryTest.class
+com\softwaretesting\testing\customerManagement\service\CustomerManagementServiceImpTest.class

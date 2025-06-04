@@ -1,0 +1,17 @@
+groups:
+  - name: default
+    rules:
+      - alert: RequestRate
+        expr: rate(http_server_requests_seconds_count{exception="None", instance="localhost:8080", job="spring-actuator", method="GET", outcome="SUCCESS", status="200", uri="/api/v1/customers/list"}[5m]) >0
+        for: 1m
+        annotations:
+          summary: 'Application receiving too many requests'
+        labels:
+          serverity: 'critical'
+      - alert: Server Not Working
+        expr: rate(http_server_requests_seconds_count{exception="None", instance="localhost:8080", job="spring-actuator", method="GET", outcome="SUCCESS", status="500", uri="/actuator/"}[5m]) >0
+        for: 1m
+        annotations:
+          summary: 'Server is not working'
+        labels:
+          serverity: 'critical'

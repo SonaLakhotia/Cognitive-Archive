@@ -1,0 +1,36 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Checkout') {
+            steps {
+                git 'https://gitlab.gwdg.de/sonal.lakhotia/software-testing-ss2023.git'
+            }
+        }
+
+        stage('Build') {
+            steps {
+                bat 'mvn -Dmaven.compiler.source=20 -Dmaven.compiler.target=20 clean package'
+            }
+        }
+
+        stage('Test') {
+            steps {
+                bat 'mvn test'
+
+            }
+            post {
+                success {
+                    junit 'target/surefire-reports/*.xml'
+                    jacoco(execPattern: 'target/jacoco.exec')
+                }
+            }
+        }
+
+        stage('Mutation Coverage') {
+            steps {
+                bat 'mvn org.pitest:pitest-maven:mutationCoverage'
+            }
+        }
+    }
+}

@@ -1,0 +1,8 @@
+There is a branch "Diffblue-Cover" for Exercise 7 for creating automated tests.
+
+
+There is a branch "Squaretest" for Exercise 7 for creating automated tests.
+
+Despite the differences in these tools the line coverage, mutation coverageand the test strength are same. Namely, 87% Line covergae, mutation covergae is 77% and Test strength 86%
+
+

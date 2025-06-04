@@ -1,0 +1,86 @@
+2023-07-24 01:35:22,841 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m24s728ms22µs800ns).
+2023-07-24 03:00:01,159 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [http-nio-8080-exec-8] HHH000397: Using ASTQueryTranslatorFactory
+2023-07-24 03:26:10,615 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-3] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2023-07-24 03:26:10,632 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown initiated...
+2023-07-24 03:26:10,636 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown completed.
+2023-07-24 03:44:37,204 INFO com.softwaretesting.testing.TestingApplication [main] Starting TestingApplication on LAPTOP-UN1OO9E6 with PID 16348 (C:\Users\jssso\IdeaProjects\software-testing-ss2023\target\classes started by jssso in C:\Users\jssso\IdeaProjects\software-testing-ss2023)
+2023-07-24 03:44:37,207 INFO com.softwaretesting.testing.TestingApplication [main] No active profile set, falling back to default profiles: default
+2023-07-24 03:44:39,830 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-07-24 03:44:39,831 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2023-07-24 03:44:40,026 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2023-07-24 03:44:40,653 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-07-24 03:44:40,837 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-07-24 03:44:40,949 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2023-07-24 03:44:41,070 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2023-07-24 03:44:41,075 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2023-07-24 03:44:41,296 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2023-07-24 03:44:41,533 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-07-24 03:44:42,317 INFO org.hibernate.tool.schema.internal.SchemaCreatorImpl [main] HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@560d6d2'
+2023-07-24 03:44:43,652 INFO com.softwaretesting.testing.TestingApplication [main] Started TestingApplication in 7.01 seconds (JVM running for 7.667)
+2023-07-24 03:45:08,143 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-24 03:47:30,060 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [http-nio-8080-exec-2] HHH000397: Using ASTQueryTranslatorFactory
+2023-07-24 03:48:28,311 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-3] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2023-07-24 03:48:28,327 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown initiated...
+2023-07-24 03:48:28,327 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown completed.
+2023-07-24 03:50:03,555 INFO com.softwaretesting.testing.TestingApplication [main] Starting TestingApplication on LAPTOP-UN1OO9E6 with PID 6028 (C:\Users\jssso\IdeaProjects\software-testing-ss2023\target\classes started by jssso in C:\Users\jssso\IdeaProjects\software-testing-ss2023)
+2023-07-24 03:50:03,561 INFO com.softwaretesting.testing.TestingApplication [main] No active profile set, falling back to default profiles: default
+2023-07-24 03:50:05,928 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-07-24 03:50:05,930 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2023-07-24 03:50:06,088 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2023-07-24 03:50:06,823 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-07-24 03:50:07,020 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-07-24 03:50:07,099 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2023-07-24 03:50:07,194 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2023-07-24 03:50:07,194 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2023-07-24 03:50:07,373 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2023-07-24 03:50:07,606 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-07-24 03:50:08,372 INFO org.hibernate.tool.schema.internal.SchemaCreatorImpl [main] HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@3b576ee3'
+2023-07-24 03:50:09,686 INFO com.softwaretesting.testing.TestingApplication [main] Started TestingApplication in 6.729 seconds (JVM running for 7.274)
+2023-07-24 03:50:09,843 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-24 03:50:09,947 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [http-nio-8080-exec-1] HHH000397: Using ASTQueryTranslatorFactory
+2023-07-24 04:00:22,372 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-3] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2023-07-24 04:00:22,380 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown initiated...
+2023-07-24 04:00:22,384 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown completed.
+2023-07-24 04:02:00,115 INFO com.softwaretesting.testing.TestingApplication [main] Starting TestingApplication on LAPTOP-UN1OO9E6 with PID 15148 (C:\Users\jssso\IdeaProjects\software-testing-ss2023\target\classes started by jssso in C:\Users\jssso\IdeaProjects\software-testing-ss2023)
+2023-07-24 04:02:00,115 INFO com.softwaretesting.testing.TestingApplication [main] No active profile set, falling back to default profiles: default
+2023-07-24 04:02:02,553 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-07-24 04:02:02,553 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2023-07-24 04:02:02,712 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2023-07-24 04:02:03,409 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-07-24 04:02:03,587 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-07-24 04:02:03,665 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2023-07-24 04:02:03,757 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2023-07-24 04:02:03,757 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2023-07-24 04:02:03,952 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2023-07-24 04:02:04,167 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-07-24 04:02:04,894 INFO org.hibernate.tool.schema.internal.SchemaCreatorImpl [main] HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@579dde54'
+2023-07-24 04:02:06,192 INFO com.softwaretesting.testing.TestingApplication [main] Started TestingApplication in 6.609 seconds (JVM running for 7.285)
+2023-07-24 04:02:06,309 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-24 04:02:06,412 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [http-nio-8080-exec-1] HHH000397: Using ASTQueryTranslatorFactory
+2023-07-24 04:05:19,926 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [Thread-3] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2023-07-24 04:05:19,939 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown initiated...
+2023-07-24 04:05:19,943 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown completed.
+2023-07-24 04:06:53,620 INFO com.softwaretesting.testing.TestingApplication [main] Starting TestingApplication on LAPTOP-UN1OO9E6 with PID 15708 (C:\Users\jssso\IdeaProjects\software-testing-ss2023\target\classes started by jssso in C:\Users\jssso\IdeaProjects\software-testing-ss2023)
+2023-07-24 04:06:53,624 INFO com.softwaretesting.testing.TestingApplication [main] No active profile set, falling back to default profiles: default
+2023-07-24 04:06:56,116 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2023-07-24 04:06:56,116 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2023-07-24 04:06:56,283 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2023-07-24 04:06:57,017 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-07-24 04:06:57,208 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-07-24 04:06:57,285 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2023-07-24 04:06:57,384 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2023-07-24 04:06:57,384 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2023-07-24 04:06:57,582 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2023-07-24 04:06:57,810 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2023-07-24 04:06:58,571 INFO org.hibernate.tool.schema.internal.SchemaCreatorImpl [main] HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@3514237f'
+2023-07-24 04:06:59,941 INFO com.softwaretesting.testing.TestingApplication [main] Started TestingApplication in 6.888 seconds (JVM running for 7.451)
+2023-07-24 04:07:00,701 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-24 04:09:10,062 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [http-nio-8080-exec-8] HHH000397: Using ASTQueryTranslatorFactory

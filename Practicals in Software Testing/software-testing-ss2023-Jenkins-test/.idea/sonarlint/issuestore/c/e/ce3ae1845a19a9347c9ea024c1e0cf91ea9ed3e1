@@ -1,0 +1,9 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ëäÊýÿÿÿÿÿ8¤Ûþ–…1
+d
+java:S2184"BCast one of the operands of this division operation to a "double".(µîÿ­ÿÿÿÿÿ8¼Ûþ–…1
+u	java:S131"YComplete cases by adding the missing enum constants or add a default case to this switch.(ÜÚ¹°8³Ýþ–…1
+E
+java:S11252"(Remove the unnecessary boolean literals.(Œ¾´‘8ÌÝþ–…1
+c
+java:S1126?"AReplace this if-then-else statement by a single return statement.(Œ’òûùÿÿÿÿ8ÑÝþ–…1
